@@ -1,6 +1,12 @@
 # Portafolio Metodología de la Investigación
-Portafolio de Evidencias de mi formacion academica 
-El objetivo de este portafolio es mostrar los conocimientos, habilidades y experiencias adquiridas a lo largo de mi trayectoria académica, así como evidenciar la aplicación práctica de los conceptos aprendidos en diferentes asignaturas.
+Nombre: Yahyr Morales Garrido
+Carrera: Ingeniería en Ciencia de Datos 
+Universidad: Universidad Veracruzana
+
+Soy estudiante de la Universidad Veracruzana, interesado en el análisis de datos, la tecnología y la aplicación de herramientas computacionales para resolver problemas de diferentes áreas. A lo largo de mi formación académica he adquirido conocimientos en programación, análisis de datos, estadística y bases de datos.
+Tengo conocimientos y experiencia académica utilizando herramientas como R, Python, SQL, Látex y además de trabajar con bases de datos, análisis estadístico, visualización de información y diferentes técnicas para el procesamiento y análisis de datos.
+También he trabajado con herramientas como Excel y Power BI, y he desarrollado proyectos relacionados con análisis de componentes principales, series de tiempo, bases de datos y análisis estadístico.
+
 
 ## Proyectos
 
