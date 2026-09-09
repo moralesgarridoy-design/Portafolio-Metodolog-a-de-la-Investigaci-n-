@@ -17,6 +17,4 @@ https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investiga
 ### 🌡️ Análisis de Olas de Calor en Xalapa
 Análisis de series de tiempo de temperaturas máximas en Xalapa y elaboración de pronósticos mediante SARIMA.
 
-🔗 [Ver proyecto en GitHub](ENLACE)
-
-https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/01_Proyecto_Base_de_Datos_Mundial
+https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/03_Analisis_de_Olas_de_Calor_en_Xalapa
