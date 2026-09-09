@@ -12,7 +12,7 @@ https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investiga
 ### 📊 Análisis de Componentes Principales
 Aplicación del ACP mediante R para analizar y reducir la dimensionalidad de los datos.
 
-🔗 [Ver proyecto en GitHub](ENLACE)
+https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/02_Analisis_de_Componentes_Principales_ACP
 
 ### 🌡️ Análisis de Olas de Calor en Xalapa
 Análisis de series de tiempo de temperaturas máximas en Xalapa y elaboración de pronósticos mediante SARIMA.
