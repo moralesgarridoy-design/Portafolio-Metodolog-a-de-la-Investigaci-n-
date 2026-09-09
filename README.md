@@ -1,6 +1,8 @@
 # Portafolio Metodología de la Investigación
 Nombre: Yahyr Morales Garrido
+
 Carrera: Ingeniería en Ciencia de Datos 
+
 Universidad: Universidad Veracruzana
 
 Soy estudiante de la Universidad Veracruzana, interesado en el análisis de datos, la tecnología y la aplicación de herramientas computacionales para resolver problemas de diferentes áreas. A lo largo de mi formación académica he adquirido conocimientos en programación, análisis de datos, estadística y bases de datos.
