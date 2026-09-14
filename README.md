@@ -28,3 +28,8 @@ https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investiga
 Análisis de series de tiempo de temperaturas máximas en Xalapa y elaboración de pronósticos mediante SARIMA.
 
 https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/03_Analisis_de_Olas_de_Calor_en_Xalapa
+
+### 🤖 Revisión Sistemática
+Uso de la IA Generativa en Estudiantes Universitarios
+
+https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/04_Revision_Sistematica_Uso_IA
