@@ -33,3 +33,23 @@ https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investiga
 Uso de la IA Generativa en Estudiantes Universitarios
 
 https://github.com/moralesgarridoy-design/Portafolio-Metodolog-a-de-la-Investigaci-n-/tree/main/04_Revision_Sistematica_Uso_IA
+
+---
+
+## 📊 Metodología SEMMA
+
+Aplicación de la metodología SEMMA para estructurar las etapas de un proyecto de minería de datos.
+
+[Ver actividad en PDF](./Metodologia%20SEMMA%20%282%29.pdf)
+
+## 🔎 Análisis KDD
+
+Descripción del proceso de descubrimiento de conocimiento en bases de datos.
+
+[Ver actividad en PDF](./An%C3%A1lisis%20KDD%20%282%29.pdf)
+
+## 🚦 Proyecto TDSP — Observatorio de riesgo vial de Xalapa
+
+Proyecto enfocado en el análisis del riesgo vial en Xalapa mediante el enfoque TDSP.
+
+[Ver actividad en PDF](./Proyecto%20TDSP%20%E2%80%94%20Observatorio%20de%20riesgo%20vial%20de%20Xalapa.pdf)
